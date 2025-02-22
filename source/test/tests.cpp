@@ -2,7 +2,7 @@
 Copyright (c) 2025 by Thomas E. Hankin III
 
 Licensed for use under the terms of the MIT license.
-See LICENSE.md for details.
+See LICENSE.txt for details.
  */
 
 #undef NDEBUG
